@@ -10,7 +10,7 @@ I am a molecular geneticist with a PhD in Genetics and a strong interest in **bi
 
 My current work focuses on applying computational approaches to investigate biological research questions, particularly in gene regulation and genome-wide data analysis. I am passionate about developing reproducible bioinformatics workflows and continuously expanding my computational expertise.
 
-My research interests lie at the intersection of genetics, epigenetics, transcriptomics, and bioinformatics, with the goal of transforming complex biological data into meaningful scientific insights.
+My research interests lie at the intersection of genetics, epigenetics, DNA methylation, transcriptomics, and bioinformatics, integrating molecular and computational approaches to transform complex biological data into meaningful scientific insights.
 
 ---
 
@@ -116,9 +116,10 @@ Building open, reproducible bioinformatics projects while expanding my expertise
 ## 📫 Connect with Me
 
 * 📧 **Email:** [nehal.sallam@gmail.com](mailto:nehal.sallam@gmail.com)
-* 💻 **GitHub:** https://github.com/Nehal-Sallam
-* 💼 **LinkedIn:** https://www.linkedin.com/in/nehal-sallam-3b5b5131/
-* 🎓 **Google Scholar:** https://scholar.google.com/citations?user=nFBDsrkAAAAJ&hl=en
+* 💻 **GitHub:** [github.com/Nehal-Sallam](https://github.com/Nehal-Sallam)
+* 💼 **LinkedIn:** [linkedin.com/in/nehal-sallam-3b5b5131](https://www.linkedin.com/in/nehal-sallam-3b5b5131/)
+* 🎓 **Google Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?user=nFBDsrkAAAAJ&hl=en)
+* 🟢 **ORCID:** [0000-0001-5614-399X](https://orcid.org/0000-0001-5614-399X)
 
 ---
 
