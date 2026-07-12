@@ -6,7 +6,7 @@
 
 **PhD in Genetics | Independent Researcher | Epigenetics & Bioinformatics**
 
-I am a molecular geneticist with a PhD in Genetics, specializing in **epigenetics**, **DNA methylation**, and **transcriptomics**. My research combines molecular biology and computational approaches to investigate epigenetic regulation, gene expression, and genome-wide DNA methylation through transcriptomic and bisulfite sequencing analyses.
+I am a molecular geneticist with a PhD in Genetics, specialising in **epigenetics**, **DNA methylation**, and **transcriptomics**. My research combines molecular biology and computational approaches to investigate epigenetic regulation, gene expression, and genome-wide DNA methylation through transcriptomic and bisulfite sequencing analyses.
 
 My research interests lie at the intersection of **epigenetics**, **DNA methylation**, **transcriptomics**, **genetics**, and **bioinformatics**, integrating molecular and computational approaches to transform complex biological data into meaningful scientific insights.
 
