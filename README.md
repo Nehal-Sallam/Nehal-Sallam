@@ -53,7 +53,19 @@ https://doi.org/10.20546/ijcmas.2019.808.294
 https://doi.org/10.21608/ASEJAIQJSAE.2024.360051
 
 ---
+## 📝 Peer Review Activities
 
+Reviewer for international peer-reviewed journals in **epigenetics, plant molecular biology, genetics, and plant science**.
+
+- **Frontiers in Sustainable Food Systems** (2025)
+- **BMC Plant Biology** (2021, 2025)
+- **Plant Physiology and Biochemistry (Elsevier)** (2023, 2025)
+- **JSM Environmental Science and Ecology** (2021)
+
+🔗 **Reviewer Profile (Web of Science):**  
+https://www.webofscience.com/wos/author/record/AAE-5578-2021
+
+---
 ## 🔬 Research Interests
 
 - Epigenetics
